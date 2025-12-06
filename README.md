@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=65&section=header"/>
-</div>
-
 <!-- Header with GIF -->
 <table>
   <tr>
@@ -12,9 +7,9 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Trung+Hieu+Tran;Software+Developer" alt="Typing Animation" />
     </td>
     <td width="40%" align="center">
-      <img src="resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%;" />
+      <img src="resources/video_profile.gif" alt="Profile GIF" style="width: 100%; max-width: 100%;" />
       <!-- GitHub link (use after pushing to repository) -->
-      <!-- <img src="https://raw.githubusercontent.com/TranTrungHiu/TranTrungHiu/main/resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%;" /> -->
+      <!-- <img src="https://raw.githubusercontent.com/TranTrungHiu/TranTrungHiu/main/resources/video_profile.gif" alt="Profile GIF" style="width: 100%; max-width: 100%;" /> -->
     </td>
   </tr>
 </table>
