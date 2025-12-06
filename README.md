@@ -8,8 +8,6 @@
     </td>
     <td width="40%" align="center">
       <img src="resources/video_profile.gif" alt="Profile GIF" style="width: 100%; max-width: 100%;" />
-      <!-- GitHub link (use after pushing to repository) -->
-      <!-- <img src="https://raw.githubusercontent.com/TranTrungHiu/TranTrungHiu/main/resources/video_profile.gif" alt="Profile GIF" style="width: 100%; max-width: 100%;" /> -->
     </td>
   </tr>
 </table>
@@ -17,13 +15,13 @@
 <!-- Profile Badges -->
 <div align="center">
 
-<a href="https://github.com/TranTrungHiu">
-  <img src="https://img.shields.io/github/followers/TranTrungHiu?style=for-the-badge&logo=github&color=181717&labelColor=0D1117&logoColor=FFFFFF" alt="GitHub followers badge" />
+<a href="https://github.com/TranTrungHjeu">
+  <img src="https://img.shields.io/github/followers/TranTrungHjeu?style=for-the-badge&logo=github&color=181717&labelColor=0D1117&logoColor=FFFFFF" alt="GitHub followers badge" />
 </a>
-<a href="https://github.com/TranTrungHiu">
-  <img src="https://img.shields.io/github/stars/TranTrungHiu?style=for-the-badge&logo=github&color=FF8C42&labelColor=0D1117&logoColor=FFFFFF" alt="GitHub stars badge" />
+<a href="https://github.com/TranTrungHjeu">
+  <img src="https://img.shields.io/github/stars/TranTrungHjeu?style=for-the-badge&logo=github&color=FF8C42&labelColor=0D1117&logoColor=FFFFFF" alt="GitHub stars badge" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=TranTrungHiu&color=FF6B9D&style=for-the-badge&labelColor=0D1117" alt="Profile Views badge" />
+<img src="https://komarev.com/ghpvc/?username=TranTrungHjeu&color=FF6B9D&style=for-the-badge&labelColor=0D1117" alt="Profile Views badge" />
 
 </div>
 
@@ -123,7 +121,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranTrungHiu&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF8C42&point=FFFFFF&area=true&area_color=FF6B9D)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranTrungHjeu&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF8C42&point=FFFFFF&area=true&area_color=FF6B9D)
 
 </div>
 
@@ -135,7 +133,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/TranTrungHiu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/TranTrungHjeu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:trantrunghieu.contact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/your-profile)
 
