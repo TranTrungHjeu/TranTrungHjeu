@@ -1,110 +1,10 @@
 <div align="center">
 
-<!-- Theme Styling - Pink Orange Theme -->
-<style>
-  :root {
-    --primary-pink: #FF6B9D;
-    --primary-orange: #FF8C42;
-    --accent-coral: #FF7F50;
-    --dark-bg: #0D1117;
-    --text-light: #FFFFFF;
-  }
-  
-  h2, h3 {
-    font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    color: var(--primary-pink);
-  }
-  
-  body {
-    font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace;
-    background-color: var(--dark-bg);
-  }
-  
-  /* Animations */
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateX(-30px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-  }
-  
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 10px rgba(255, 107, 157, 0.5); }
-    50% { box-shadow: 0 0 20px rgba(255, 140, 66, 0.8); }
-  }
-  
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  .fade-in {
-    animation: fadeIn 1s ease-out;
-  }
-  
-  .slide-in {
-    animation: slideIn 0.8s ease-out;
-  }
-  
-  .pulse {
-    animation: pulse 2s ease-in-out infinite;
-  }
-  
-  .glow {
-    animation: glow 2s ease-in-out infinite;
-  }
-  
-  /* GIF Container with animation */
-  .gif-container {
-    position: relative;
-    display: inline-block;
-    animation: fadeIn 1.5s ease-out;
-  }
-  
-  .gif-container::before {
-    content: '';
-    position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
-    background: linear-gradient(45deg, var(--primary-pink), var(--primary-orange), var(--accent-coral), var(--primary-pink));
-    background-size: 400% 400%;
-    animation: gradient 3s ease infinite;
-    border-radius: 10px;
-    z-index: -1;
-    opacity: 0.3;
-  }
-  
-  /* Badge hover effect */
-  img[alt*="badge"] {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  
-  img[alt*="badge"]:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2);
-  }
-</style>
-
 <!-- Header -->
-<div class="fade-in">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Trung+Hieu+Tran;Software+Developer" alt="Typing Animation" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Trung+Hieu+Tran;Software+Developer" alt="Typing Animation" />
 
 <!-- Profile Badges -->
-<div align="center" class="slide-in">
+<div align="center">
 
 <a href="https://github.com/TranTrungHiu">
   <img src="https://img.shields.io/github/followers/TranTrungHiu?style=for-the-badge&logo=github&color=181717&labelColor=0D1117&logoColor=FFFFFF" alt="GitHub followers badge" />
@@ -119,7 +19,7 @@
 ---
 
 <!-- Profile GIF -->
-<div align="center" class="gif-container">
+<div align="center">
 
 <img src="resources/video_profile.gif" alt="Profile GIF" width="600" style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 32px rgba(255, 107, 157, 0.3);" />
 
@@ -136,7 +36,7 @@
 
 ### <span style="font-family: 'Fira Code', 'JetBrains Mono', monospace; font-weight: 500; letter-spacing: 0.3px; color: #FF8C42;">Programming Languages</span>
 
-<div align="center" class="slide-in">
+<div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=0D1117" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=0D1117" alt="TypeScript" />
@@ -149,7 +49,7 @@
 
 ### <span style="font-family: 'Fira Code', 'JetBrains Mono', monospace; font-weight: 500; letter-spacing: 0.3px; color: #FF8C42;">Frameworks & Libraries</span>
 
-<div align="center" class="slide-in">
+<div align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=0D1117" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=0D1117" alt="Node.js" />
@@ -159,7 +59,7 @@
 
 ### <span style="font-family: 'Fira Code', 'JetBrains Mono', monospace; font-weight: 500; letter-spacing: 0.3px; color: #FF8C42;">Tools & Technologies</span>
 
-<div align="center" class="slide-in">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0D1117" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub" />
