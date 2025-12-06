@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Animated Wave Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=65&section=header"/>
+</div>
+
 <!-- Header with GIF -->
 <table>
   <tr>
