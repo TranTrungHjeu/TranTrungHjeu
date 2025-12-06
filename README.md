@@ -7,9 +7,9 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Trung+Hieu+Tran;Software+Developer" alt="Typing Animation" />
     </td>
     <td width="40%" align="center">
-      <img src="resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 32px rgba(255, 107, 157, 0.3);" />
+      <img src="resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%;" />
       <!-- GitHub link (use after pushing to repository) -->
-      <!-- <img src="https://raw.githubusercontent.com/TranTrungHiu/TranTrungHiu/main/resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 32px rgba(255, 107, 157, 0.3);" /> -->
+      <!-- <img src="https://raw.githubusercontent.com/TranTrungHiu/TranTrungHiu/main/resources/video_profile.gif" alt="Profile GIF" width="250" style="max-width: 100%;" /> -->
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 
 <!-- Tech Stack -->
 
-## <img src="https://api.iconify.design/mdi:wrench.svg?color=white" width="25" height="25" style="vertical-align: middle;" /> <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Tech Stack & Tools</code>
+## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Tech Stack & Tools</code>
 
 ### <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1em; font-weight: 500; letter-spacing: 0.3px; color: #FF8C42;">Programming Languages</code>
 
@@ -107,7 +107,7 @@
 
 <!-- Contribution Graph -->
 
-## <img src="https://api.iconify.design/mdi:git.svg?color=white" width="25" height="25" style="vertical-align: middle;" /> <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Contribution Graph</code>
+## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Contribution Graph</code>
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 <!-- GitHub Activity -->
 
-## <img src="https://api.iconify.design/mdi:chart-line.svg?color=white" width="25" height="25" style="vertical-align: middle;" /> <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">GitHub Activity</code>
+## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">GitHub Activity</code>
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 <!-- Contact -->
 
-## <img src="https://api.iconify.design/mdi:linkedin.svg?color=white" width="25" height="25" style="vertical-align: middle;" /> <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Connect with me</code>
+## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Connect with me</code>
 
 <div align="center">
 
