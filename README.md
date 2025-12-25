@@ -103,30 +103,6 @@
 
 ---
 
-<!-- Contribution Graph -->
-
-## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Contribution Graph</code>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<!-- GitHub Activity -->
-
-## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">GitHub Activity</code>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranTrungHjeu&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF8C42&point=FFFFFF&area=true&area_color=FF6B9D)
-
-</div>
-
----
-
 <!-- Contact -->
 
 ## <code style="font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 1.1em; font-weight: 600; letter-spacing: 0.5px; color: #FF6B9D;">Connect with me</code>
